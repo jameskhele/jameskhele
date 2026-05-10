@@ -20,14 +20,10 @@
 
 ## 🌠 Neural Nexus: Primary Objective
 
-### 💠 THE FLAGSHIP: AETHER OS
-[![Alpha Phase](https://img.shields.io/badge/Phase-1_Genesis-blueviolet?style=for-the-badge)](https://github.com/jameskhele/AETHER-OS)
-[![Monorepo](https://img.shields.io/badge/Architecture-Distributed_Microservices-0ea5e9?style=for-the-badge)](https://github.com/jameskhele/AETHER-OS)
+### 💠 THE FLAGSHIP: [AETHER OS](https://github.com/jameskhele/AETHER-OS)
+![Active Alpha](https://img.shields.io/badge/Release-Phase_1_Genesis-blueviolet?style=for-the-badge)
+![Architecture](https://img.shields.io/badge/Architecture-Microservices_Monorepo-0ea5e9?style=for-the-badge)
 
-<a href="https://github.com/jameskhele/AETHER-OS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jameskhele&repo=AETHER-OS&theme=tokyonight&show_icons=true" width="100%" />
-</a>
-<br/>
 **Autonomous Multi-Agent Intelligence Operating System for Real-Time Decision Simulation.** 
 A massive-scale ecosystem encompassing recursive LangGraph workflows, high-ingress WebSocket gateways, and dynamic 3D visual analytics. Designed as the ultimate command-and-control center for federated AI rationality.
 
@@ -37,23 +33,20 @@ A massive-scale ecosystem encompassing recursive LangGraph workflows, high-ingre
 
 ## 🛰️ Active Satellite Infrastructure
 
-### 🔬 Top-Tier Scientific Research: Transformer-Attention-Dynamics
-<a href="https://github.com/jameskhele/Transformer-Attention-Dynamics">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jameskhele&repo=Transformer-Attention-Dynamics&theme=tokyonight&show_icons=true" />
-</a>
-<br/>
-**Academic-grade linear algebraic exploration engine** simulating raw matrix tensor calculations for Scaled Dot-Product Attention step-by-step. Demonstrates high-level theoretical algorithmic mastery of the mathematical foundations of Large Language Models (LLMs).
-<br/>
-🔗 **Live Mathematical Explorer:** [Launch Live Simulation](https://jameskhele.github.io/Transformer-Attention-Dynamics/)
+### 🔬 Scientific Research: [Transformer-Attention-Dynamics](https://github.com/jameskhele/Transformer-Attention-Dynamics)
+![Compute](https://img.shields.io/badge/Domain-Neural_Mathematics-green?style=flat-square)
+![Stack](https://img.shields.io/badge/Stack-Pure_Vanilla_JS_/_WASM-orange?style=flat-square)
+
+**Academic-grade linear algebraic exploration engine** simulating raw matrix tensor calculations for Scaled Dot-Product Attention step-by-step. Demonstrates high-level theoretical algorithmic mastery.
+🔗 **Live Explorer:** [Launch Live Simulation](https://jameskhele.github.io/Transformer-Attention-Dynamics/)
 
 <br/>
 
-### 🛸 Flagship Enterprise System: CognitiveMesh-Orchestrator
-<a href="https://github.com/jameskhele/CognitiveMesh-Orchestrator">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jameskhele&repo=CognitiveMesh-Orchestrator&theme=tokyonight&show_icons=true" />
-</a>
-<br/>
-Distributed backend platform engineered for high-throughput multi-agent dispatch and RAG vector processing. Highlights scalable clean architecture, full Docker-Compose topology definitions, Redis concurrency synchronization, and deep test coverage.
+### 🛸 Enterprise Core: [CognitiveMesh-Orchestrator](https://github.com/jameskhele/CognitiveMesh-Orchestrator)
+![Compute](https://img.shields.io/badge/System-Distributed_Backend-blue?style=flat-square)
+![Stack](https://img.shields.io/badge/Infrastructure-Docker_/_FastAPI-lightgrey?style=flat-square)
+
+Distributed backend platform engineered for high-throughput multi-agent dispatch and RAG vector processing. Highlights scalable clean architecture, full Docker-Compose topology definitions, and deep test coverage.
 
 <br/>
 
@@ -113,17 +106,7 @@ Distributed backend platform engineered for high-throughput multi-agent dispatch
 ## 📊 Quantum Diagnostics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jameskhele&show_icons=true&theme=tokyonight&count_private=true&hide_border=false" height="180em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jameskhele&layout=compact&theme=tokyonight&hide_border=false" height="180em" />
-</div>
-
-<div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jameskhele&theme=tokyonight" width="100%" />
-</div>
-
-<br/>
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
 </div>
 
 ---
