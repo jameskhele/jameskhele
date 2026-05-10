@@ -17,14 +17,23 @@
 
 <br/>
 
-## 🌠 Neural Nexus: Featured AI Works
 
-Highly sophisticated experiments in real-time inference and graph dynamics.
+## 🌠 Neural Nexus: Featured Ecosystems
+
+### 🛸 Flagship Platform: CognitiveMesh-Orchestrator
+<a href="https://github.com/jameskhele/CognitiveMesh-Orchestrator">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jameskhele&repo=CognitiveMesh-Orchestrator&theme=tokyonight&show_icons=true" />
+</a>
+<br/>
+Enterprise-grade distributed backend platform designed for high-throughput multi-agent dispatch, RAG pipelines, and asynchronous task coordination. Optimized with robust decoupled clean architecture, Docker container topology, and Redis caching locking layers.
+<br/><br/>
+
+### 🧪 Experimental Labs
 
 | 🌌 NeuroStream-AI | 🌐 AetherNexus-AGI |
 | :--- | :--- |
 | <a href="https://github.com/jameskhele/NeuroStream-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jameskhele&repo=NeuroStream-AI&theme=tokyonight&show_icons=true" /></a> | <a href="https://github.com/jameskhele/AetherNexus-AGI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jameskhele&repo=AetherNexus-AGI&theme=tokyonight&show_icons=true" /></a> |
-| Next-Gen spatial intelligence dashboard utilizing edge-side neural pipelines via MediaPipe & TFJS. Featuring real-time biometric analytics and dynamic glassmorphic UI overlay. | Real-time synaptic graph visualizer simulating distributed autonomous agent mesh networks. Interactive physics-driven dynamic connectivity environment. |
+| Real-time, high-fidelity spatial edge telemetry utilizing device-native TensorFlow / MediaPipe compute channels. | Interactive canvas-driven dynamic graph simulator charting multi-node synaptic relay and vector density gradients. |
 
 <br/>
 
