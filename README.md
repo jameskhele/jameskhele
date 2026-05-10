@@ -1,18 +1,22 @@
 <div align="center">
-  <img src="./banner.png" width="100%" />
+  <br/>
+  <h1>⚡ JAMES KHELE</h1>
+  <h3>AI Systems Architect | Software Engineer</h3>
   
-  <h1>🚀 JAMES KHELE</h1>
-  <h3>Computer Science Engineer | AI Architect | Full-Stack Engineer</h3>
+  <br/>
 
-  <p>
-    <a href="https://instagram.com/joy_jameskhele"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <div>
     <a href="https://linkedin.com/in/jameskhele"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+    &nbsp;
     <a href="mailto:jameskhele008@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  </p>
+  </div>
 
+  <br/>
+  
   <p align="center">
-    ✨ <i>Pushing the frontiers of Edge AI, spatial intelligence, and distributed neural compute architectures.</i> ✨
+    <i>Developing scalable, distributed multi-agent environments and intelligent backend infrastructures.</i>
   </p>
+  <br/>
 </div>
 
 <br/>
