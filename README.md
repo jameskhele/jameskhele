@@ -20,20 +20,35 @@
 
 ## 🌠 Neural Nexus: Featured Ecosystems
 
-### 🛸 Flagship Platform: CognitiveMesh-Orchestrator
+### 🔬 Top-Tier Scientific Research: Transformer-Attention-Dynamics
+<a href="https://github.com/jameskhele/Transformer-Attention-Dynamics">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jameskhele&repo=Transformer-Attention-Dynamics&theme=tokyonight&show_icons=true" />
+</a>
+<br/>
+**Academic-grade linear algebraic exploration engine** simulating raw matrix tensor calculations for Scaled Dot-Product Attention step-by-step. Demonstrates high-level theoretical algorithmic mastery of the mathematical foundations of Large Language Models (LLMs).
+<br/>
+🔗 **Live Mathematical Explorer:** [Launch Live Simulation](https://jameskhele.github.io/Transformer-Attention-Dynamics/)
+
+<br/>
+
+### 🛸 Flagship Enterprise System: CognitiveMesh-Orchestrator
 <a href="https://github.com/jameskhele/CognitiveMesh-Orchestrator">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jameskhele&repo=CognitiveMesh-Orchestrator&theme=tokyonight&show_icons=true" />
 </a>
 <br/>
-Enterprise-grade distributed backend platform designed for high-throughput multi-agent dispatch, RAG pipelines, and asynchronous task coordination. Optimized with robust decoupled clean architecture, Docker container topology, and Redis caching locking layers.
-<br/><br/>
+Distributed backend platform engineered for high-throughput multi-agent dispatch and RAG vector processing. Highlights scalable clean architecture, full Docker-Compose topology definitions, Redis concurrency synchronization, and deep test coverage.
 
-### 🧪 Experimental Labs
+<br/>
 
-| 🌌 NeuroStream-AI | 🌐 AetherNexus-AGI |
-| :--- | :--- |
-| <a href="https://github.com/jameskhele/NeuroStream-AI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jameskhele&repo=NeuroStream-AI&theme=tokyonight&show_icons=true" /></a> | <a href="https://github.com/jameskhele/AetherNexus-AGI"><img src="https://github-readme-stats.vercel.app/api/pin/?username=jameskhele&repo=AetherNexus-AGI&theme=tokyonight&show_icons=true" /></a> |
-| Real-time, high-fidelity spatial edge telemetry utilizing device-native TensorFlow / MediaPipe compute channels. | Interactive canvas-driven dynamic graph simulator charting multi-node synaptic relay and vector density gradients. |
+### 🧪 Visually Immersive Labs
+*Real-time deployed interactive environments demonstrating cutting-edge aesthetic computing.*
+
+| Project | Status | Deployment |
+| :--- | :--- | :--- |
+| **🌌 NeuroStream-AI** | ![Live](https://img.shields.io/badge/Status-Online-green) | [👉 Launch Live Dashboard](https://jameskhele.github.io/NeuroStream-AI/) |
+| **🌐 AetherNexus-AGI** | ![Live](https://img.shields.io/badge/Status-Online-green) | [👉 Enter Neural Network](https://jameskhele.github.io/AetherNexus-AGI/) |
+
+<br/>
 
 <br/>
 
