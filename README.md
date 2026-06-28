@@ -1,119 +1,55 @@
-<div align="center">
-  <br/>
-  <h1>⚡ JAMES KHELE</h1>
-  <h3>AI Systems Architect | Software Engineer</h3>
-  
-  <br/>
+# James Khele
 
-  <div>
-    <a href="https://linkedin.com/in/jameskhele"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-    &nbsp;
-    <a href="mailto:jameskhele008@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  </div>
+**Software Engineer**  
+Specializing in B2B SaaS platforms, AI orchestration (LangGraph, RAG), and webhook-triggered automations.
 
-  <br/>
-  
-  <p align="center">
-    <i>Developing scalable, distributed multi-agent environments and intelligent backend infrastructures.</i>
-  </p>
-  <br/>
-</div>
-
-<br/>
-
-
-## 🌠 Neural Nexus: Primary Objective
-
-### 💠 THE FLAGSHIP: [AETHER OS](https://github.com/jameskhele/AETHER-OS)
-![Active Alpha](https://img.shields.io/badge/Release-Phase_1_Genesis-blueviolet?style=for-the-badge)
-![Architecture](https://img.shields.io/badge/Architecture-Microservices_Monorepo-0ea5e9?style=for-the-badge)
-
-**Autonomous Multi-Agent Intelligence Operating System for Real-Time Decision Simulation.** 
-A massive-scale ecosystem encompassing recursive LangGraph workflows, high-ingress WebSocket gateways, and dynamic 3D visual analytics. Designed as the ultimate command-and-control center for federated AI rationality.
-
-<br/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/jameskhele)
+[![Portfolio](https://img.shields.io/badge/Portfolio-indigo?style=flat-square&logo=react&logoColor=white)](https://jameskhele.github.io/james-khele-portfolio/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:jameskhele008@gmail.com)
+[![Resume](https://img.shields.io/badge/Resume-blue?style=flat-square&logo=google-drive&logoColor=white)](https://drive.google.com/file/d/1P_ExKmZy_nozb6Z3pWrym1U_2gUieJkc/view?usp=sharing)
 
 ---
 
-## 🛰️ Active Satellite Infrastructure
+## 🛠️ High-Quality Featured Projects
 
-### 🔬 Scientific Research: [Transformer-Attention-Dynamics](https://github.com/jameskhele/Transformer-Attention-Dynamics)
-![Compute](https://img.shields.io/badge/Domain-Neural_Mathematics-green?style=flat-square)
-![Stack](https://img.shields.io/badge/Stack-Pure_Vanilla_JS_/_WASM-orange?style=flat-square)
+### ⚡ [BridgeForge](https://github.com/jameskhele/bridgeforge-launchpad) (SaaS & B2B Automation)
+*B2B Automation Platform for Revenue Operations.*
+* **Core Stack:** Next.js, React, Node.js, n8n, Make.com, HubSpot API, Twilio API, Clearbit API, PostgreSQL
+* **Impact:** 6-tool suite (Friction Auditor, Pitch Builder, Margin Calculator, Legal Vault, Dashboard, Operator Mode) designed to audit business workflows and deploy middleware automations. Saves clients **18+ hours/month** and increases lead-to-call conversions by **35%**.
+* [Live Demo](https://jameskhele.github.io/bridgeforge-launchpad/)
 
-**Academic-grade linear algebraic exploration engine** simulating raw matrix tensor calculations for Scaled Dot-Product Attention step-by-step. Demonstrates high-level theoretical algorithmic mastery.
-🔗 **Live Explorer:** [Launch Live Simulation](https://jameskhele.github.io/Transformer-Attention-Dynamics/)
+### 🌌 [AETHER-OS](https://github.com/jameskhele/AETHER-OS) (AI & Systems)
+*Multi-Agent AI Orchestration Platform.*
+* **Core Stack:** Next.js 15, FastAPI, Python, LangGraph, PostgreSQL, ChromaDB (Vector DB), WebSockets, Docker
+* **Impact:** Coordinates three autonomous AI agents over real-time WebSockets with **under 200ms** inter-agent message latency. Implemented LangGraph orchestration and vector-database RAG, achieving a **40% retrieval relevance improvement**. Fully containerized CI/CD deploying in under 4 minutes.
+* [Live Demo](https://aether-os-web.vercel.app/)
 
-<br/>
+### 📊 [EXAMINER](https://github.com/jameskhele/EXAMINER) (Backend Systems)
+*Automated Constraint-Satisfaction Scheduling Engine.*
+* **Core Stack:** Java, MySQL
+* **Impact:** Maps 50+ subject categories for 800+ entities to automatically generate conflict-free schedules, reducing administrative overhead by **38 hours** per semester.
 
-### 🛸 Enterprise Core: [CognitiveMesh-Orchestrator](https://github.com/jameskhele/CognitiveMesh-Orchestrator)
-![Compute](https://img.shields.io/badge/System-Distributed_Backend-blue?style=flat-square)
-![Stack](https://img.shields.io/badge/Infrastructure-Docker_/_FastAPI-lightgrey?style=flat-square)
+### 🔬 [Transformer-Attention-Dynamics](https://github.com/jameskhele/Transformer-Attention-Dynamics) (Neural Engineering)
+*Linear algebraic exploration engine for transformer networks.*
+* **Core Stack:** JavaScript (ES6+), CSS3, HTML5
+* **Impact:** Step-by-step interactive simulator calculating raw matrix tensor transformations for Scaled Dot-Product Attention (Query, Key, Value).
+* [Live Demo](https://jameskhele.github.io/Transformer-Attention-Dynamics/)
 
-Distributed backend platform engineered for high-throughput multi-agent dispatch and RAG vector processing. Highlights scalable clean architecture, full Docker-Compose topology definitions, and deep test coverage.
+---
 
-<br/>
+## ⚙️ Technical Skills
 
-### 🧪 Visually Immersive Labs
-*Real-time deployed interactive environments demonstrating cutting-edge aesthetic computing.*
+* **Languages:** TypeScript, JavaScript (ES6+), Python, Java, SQL, HTML5, CSS3
+* **Frontend:** React, Next.js, Tailwind CSS, SSR, State Management, Responsive Design, Responsive UI
+* **Backend & APIs:** Node.js, FastAPI, Express, REST APIs, WebSockets, JWT/OAuth2 (RBAC)
+* **Databases:** PostgreSQL, MySQL, Redis, Connection Pooling, Query Optimization
+* **AI & Automation:** LangGraph, RAG Pipelines, Vector DBs, n8n, Make.com, HubSpot/Twilio APIs
+* **DevOps & Cloud:** Docker, GitHub Actions, CI/CD, Git, Linux, GCP, Vercel, Jest
 
-| Project | Status | Deployment |
-| :--- | :--- | :--- |
-| **🌌 NeuroStream-AI** | ![Live](https://img.shields.io/badge/Status-Online-green) | [👉 Launch Live Dashboard](https://jameskhele.github.io/NeuroStream-AI/) |
-| **🌐 AetherNexus-AGI** | ![Live](https://img.shields.io/badge/Status-Online-green) | [👉 Enter Neural Network](https://jameskhele.github.io/AetherNexus-AGI/) |
+---
 
-<br/>
-
-<br/>
-
-## ⚡ Protocol Overview
-
-- 🔭 **Current Directive:** Developing hyper-scalable real-time backend infrastructures and distributed edge-AI nodes.
-- 🧠 **Research Matrix:** Advanced Neural Engineering, Graph Physics Simulators, Real-time Computer Vision.
-- ⚙️ **Tech Core:** Crafting resilient, reactive components built on robust database consistency models.
-- ⚡ **Operational Metric:** Combining high-level engineering with systematic optimization for low-latency deployments.
-
-<br/>
-
-## 🧰 Tech Stack & Weaponry
-
-<details open>
-<summary><b>🧠 AI & Data Science</b></summary>
-<br/>
-<img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white" />
-<img src="https://img.shields.io/badge/MediaPipe-0097A7?style=flat-square&logo=mediapipe&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" />
-</details>
-
-<details open>
-<summary><b>🛠️ Core Engineering</b></summary>
-<br/>
-<img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/C-%2300599C.svg?style=flat-square&logo=c&logoColor=white" />
-</details>
-
-<details open>
-<summary><b>💾 Infrastructure & Web</b></summary>
-<br/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white" />
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-</details>
-
-<br/>
-
-## 📊 Quantum Diagnostics
+## 📊 GitHub Profile Stats
 
 <div align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jameskhele&theme=tokyonight" width="100%" />
-</div>
-
----
-<div align="center">
-  <sub><i>Uplink Established. Data Stream Encrypted.</i></sub>
 </div>
