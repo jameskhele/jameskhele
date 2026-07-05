@@ -1,4 +1,4 @@
-# James Khele
+# James
 
 **Software Engineer**  
 Specializing in B2B SaaS platforms, AI orchestration (LangGraph, RAG), and webhook-triggered automations.
