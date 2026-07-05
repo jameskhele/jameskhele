@@ -26,8 +26,9 @@ Specializing in B2B SaaS platforms, AI orchestration (LangGraph, RAG), and webho
 
 ### 📊 [EXAMINER](https://github.com/jameskhele/EXAMINER) (Backend Systems)
 *Automated Constraint-Satisfaction Scheduling Engine.*
-* **Core Stack:** Java, MySQL
+* **Core Stack:** Java, MySQL, JDBC, JUnit
 * **Impact:** Maps 50+ subject categories for 800+ entities to automatically generate conflict-free schedules, reducing administrative overhead by **38 hours** per semester.
+* **Publication:** Published research paper on solver heuristics: *"Design and Implementation of a Constraint-Satisfaction Scheduling Engine for Academic Examinations"* in IJCSE, 2025.
 
 ### 🔬 [Transformer-Attention-Dynamics](https://github.com/jameskhele/Transformer-Attention-Dynamics) (Neural Engineering)
 *Linear algebraic exploration engine for transformer networks.*
